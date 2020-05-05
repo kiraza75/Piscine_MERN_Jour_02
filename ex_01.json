@@ -1,0 +1,9 @@
+{
+  "list": [
+    {
+      "sudo apt-get install mongodb",
+      "mongo",
+      "mongod"
+    }
+  ]
+}
